@@ -1,5 +1,5 @@
 {
-  "name": "react_admin",
+  "name": "react-admin-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "concurrently": "^5.3.0",
+    "content-range": "^1.1.0",
     "json-server": "^0.16.2"
   }
 }
